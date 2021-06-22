@@ -112,6 +112,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 TextButton(onPressed: () {_updatePass('9');}, child: Text('9')),
               ],
             ),
+            Text('this is a new text')
           ],
         ),
       ),
